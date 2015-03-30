@@ -1,3 +1,10 @@
+# Reproducible Research
+## Peer Assessment 1
+
+This repository was initially forked from Roger Peng, the instructor for  the [Reproducible Research Class](https://www.coursera.org/course/repdata) of Coursera's [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1). The objective of the assignment was to follow the instructions set out below.
+
+---
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
